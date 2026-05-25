@@ -207,6 +207,15 @@ print(soma(2,3))
 
 #Estrutura: 'lambda' + parâmetros + ':' + as variáveis dos parâmetros.
 
+'''
+PARA FINALIZAR, ALGUMAS DICAS DE INTERACTIVE HELP:
+
+1) Comando/função 'help()' - colocando o nome da função que queira executar entre parenteses, retorna a explicação da função correspondente no terminal. 
+
+2) Docstrings - Explicações de funções criadas por você no código através de ''' ''' no escopo da função.
+
+'''
+
    
 
 

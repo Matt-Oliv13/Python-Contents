@@ -1,0 +1,2 @@
+Game 1; Console 3
+Game 2; Console 6
